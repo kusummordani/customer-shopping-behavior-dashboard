@@ -44,8 +44,5 @@ A **Season slicer** is included to make the dashboard interactive and allow dyna
 ## Project Objective
 The goal of this project was to practice Excel data analysis and dashboard creation by transforming raw customer shopping data into meaningful business insights.
 
-## Preview
-_Add your dashboard screenshots here after uploading them._
-
-## Author
-Your Name
+##Created by 
+Kusum Mordani
